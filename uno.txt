@@ -1,2 +1,7 @@
 Primera linea 
+<<<<<<< HEAD
+=======
+uno
+cambia
+>>>>>>> 45a3f772afb5c9b86f0d73c1c86873fb167bc900
 dos
